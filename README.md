@@ -17,7 +17,7 @@ This Python-based Password Manager is a secure and user-friendly application tha
 <h2>Project walk-through:</h2>
 
 <p align="left">
-The password generator interface offers user-friendly customization options, allowing <br/> individuals to include or exclude uppercase letters, digits, and special characters based <br/> on their preferences. It also features a text box for specifying the desired password length, <br/> alongside buttons  to generate passwords and view saved ones, ensuring a flexible and intuitive experience.
+The password generator interface offers user-friendly customization options, allowing <br/> individuals to include or exclude uppercase letters, digits, and special characters based <br/> on their preferences. It also features a text box for specifying the desired password length, <br/> alongside buttons to generate passwords and view saved ones, ensuring a flexible and <br/> intuitive experience.
  <br/><br/>
   <img src="Screenshot 2025-04-17 170228.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
@@ -30,7 +30,7 @@ After the user clicks "OK" in the pop-up box displaying the generated password, 
   <img src="Screenshot 2025-04-17 170303.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-If the user selects "Yes" in the prompt to save the generated password, they are presented <br/> with a new pop-up window prompting them to enter a name for the password. This step allows <br/> the user to assign a meaningful identifier to the saved password, ensuring easy retrieval and <br/> organization in the password database. <br/><br/>
+If the user selects "Yes" in the prompt to save the generated password, they are presented <br/> with a new pop-up window prompting them to enter a name for the password. This step <br/> allows the user to assign a meaningful identifier to the saved password, ensuring easy retrieval <br/> and organization in the password database. <br/><br/>
   <img src="Screenshot 2025-04-17 170325.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
@@ -42,7 +42,7 @@ After saving their password, the user can click the "Show Saved Passwords" butto
   <img src="Screenshot 2025-04-17 170432.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-If a user decides to delete a password, they can click the "Delete Selected" button, which <br/> triggers a confirmation message. This prompt verifies their intention to delete the selected <br/> password, ensuring no accidental deletions and providing a secure way to manage their saved entries. <br/><br/>
+If a user decides to delete a password, they can click the "Delete Selected" button, which <br/> triggers a confirmation message. This prompt verifies their intention to delete the selected <br/> password, ensuring no accidental deletions and providing a secure way to manage their <br/> saved entries. <br/><br/>
   <img src="Screenshot 2025-04-17 170454.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
