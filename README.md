@@ -17,12 +17,12 @@ This Python-based Password Manager is a secure and user-friendly application tha
 <h2>Project walk-through:</h2>
 
 <p align="left">
-The password generator interface offers user-friendly customization options, allowing <br/> individuals to include or exclude uppercase letters, digits, and special characters based on their <br/> preferences. It also features a text box for specifying the desired password length, alongside buttons <br/> to generate passwords and view saved ones, ensuring a flexible and intuitive experience.
+The password generator interface offers user-friendly customization options, allowing <br/> individuals to include or exclude uppercase letters, digits, and special characters based <br/> on their preferences. It also features a text box for specifying the desired password length, <br/> alongside buttons  to generate passwords and view saved ones, <br/> ensuring a flexible and intuitive experience.
  <br/><br/>
   <img src="Screenshot 2025-04-17 170228.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-When the user specifies a password length, such as 42 characters, and clicks the <br/> "Generate Password" button, a new pop-up box appears displaying the generated password. <br/> This dynamically generated password adheres to the user's chosen preferences.<br/><br/>
+When the user specifies a password length, such as 42 characters, and clicks the "Generate <br/> Password" button, a new pop-up box appears displaying the generated password. <br/> This dynamically generated password adheres to the user's chosen preferences.<br/><br/>
   <img src="Screenshot 2025-04-17 170250.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
@@ -30,11 +30,11 @@ After the user clicks "OK" in the pop-up box displaying the generated password, 
   <img src="Screenshot 2025-04-17 170303.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-If the user selects "Yes" in the prompt to save the generated password, they are <br/> presented with a new pop-up window prompting them to enter a name for the password. This step allows the user to assign a meaningful identifier to the saved password, ensuring easy retrieval and organization in the password database. <br/><br/>
+If the user selects "Yes" in the prompt to save the generated password, they are presented with <br/> a new pop-up window prompting them to enter a name for the password. This step <br/> allows the user to assign a meaningful identifier to the saved password, ensuring easy retrieval and <br/> organization in the password database. <br/><br/>
   <img src="Screenshot 2025-04-17 170325.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-After saving their password, the user can click the "Show Saved Passwords" button, which opens a new window displaying all saved passwords. This view allows the user to see their stored entries, making it easy to review and manage passwords directly within the interface. <br/><br/>
+After saving their password, the user can click the "Show Saved Passwords" button, which opens a <br/> new window displaying all saved passwords. This view allows the user to see <br/> their stored entries, making it easy to review and manage passwords directly within the interface. <br/><br/>
   <img src="Screenshot 2025-04-17 170353.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
