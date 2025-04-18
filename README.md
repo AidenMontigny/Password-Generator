@@ -15,7 +15,6 @@ This Python-based Password Manager is a secure and user-friendly application tha
 - <b> Visual Studio 2022 </b>
 
 <h2>Project walk-through:</h2>
-
 <p align="left">
 The password generator interface offers user-friendly customization options, allowing <br/> individuals to include or exclude uppercase letters, digits, and special characters based <br/> on their preferences. It also features a text box for specifying the desired password length, <br/> alongside buttons to generate passwords and view saved ones, ensuring a flexible and <br/> intuitive experience.
  <br/><br/>
